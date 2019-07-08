@@ -1,0 +1,11 @@
+.navbar-expand-sm{
+    margin-bottom: 22px;
+}
+.text-leave{
+    text-align: left;
+    overflow : hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}

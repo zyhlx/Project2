@@ -1,0 +1,36 @@
+.navbar-expand-sm{
+    margin-bottom: 22px;
+}
+#upload .modal-dialog{
+    max-width: 75%;
+    margin: auto;
+}
+#div{
+    height:300px;
+    width:75%;
+    border:1px solid #eee;
+}
+#div img{
+    width:100%;
+    height:100%;
+}
+
+
+#change .modal-dialog{
+    max-width: 75%;
+    margin: auto;
+}
+#div_change{
+    height:300px;
+    width:75%;
+    border:1px solid #eee;
+}
+#div_change img{
+    width:100%;
+    height:100%;
+}
+.oneLeave{
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap
+}

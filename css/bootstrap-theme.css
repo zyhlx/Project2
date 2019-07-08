@@ -1,0 +1,41 @@
+.topHeaderRow {
+    background-color: #000000;
+    height: 3em;
+    font-size: 0.8em;
+    padding-top: 1em;
+}
+.topHeaderRow  a:link {
+    color: #ffffff;
+}
+
+.topHeaderRow  a:visited {
+    color: #ffffff;
+}
+.topHeaderRow  a:hover {
+     color: #40C4FF;
+ }
+.navbar-brand {
+    font-family: lobster, serif;
+    font-size: 32px;
+}
+
+
+footer {
+    background-color:  #000000;
+    color: #E8EAF6;
+    font-size: 80%;
+}
+footer .final {
+    padding-top: 10px;
+    margin-top: 10px;
+    background-color:  #1A237E;
+    text-align: center;
+}
+
+footer hr {
+    margin-bottom: 0;
+}
+
+.countryButtons  {
+    margin-bottom: 10px;
+}

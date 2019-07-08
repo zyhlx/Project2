@@ -1,0 +1,27 @@
+.navbar-expand-sm{
+    margin-bottom: 22px
+}
+aside{
+    text-align: center;
+}
+aside .card{
+    border: 0px solid #DDFFFB;
+    margin-bottom: 22px
+}
+aside .card-header{
+    border: 1px solid #DDFFFB;
+    background-color: #DDFFFB;
+    font-style: italic;
+}
+aside .list-group{
+    border: 0px solid #DDFFFB;
+}
+aside .list-group-item{
+    border: 1px solid #DDFFFB;
+}
+.img-responsive{
+    max-width: 100%;
+}
+.card-body table{
+    max-width: 100%;
+}
